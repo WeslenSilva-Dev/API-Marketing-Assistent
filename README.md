@@ -60,6 +60,10 @@ uvicorn main:app --reload
 
 Documentação: **http://127.0.0.1:8000/docs**
 
+## Caso tenha dificuldade para conseguir o longer-lived access token (USER_ACCESS_TOKEN)
+
+Assista a esse video **https://youtu.be/OXCAAIUdFnE?si=jRa2XNpGbdBDZ8_Q** me ajudou muito.
+
 ## Endpoints
 
 | Método | Endpoint | Descrição |
