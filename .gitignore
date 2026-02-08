@@ -1,0 +1,19 @@
+# Ambiente
+venv/
+.venv/
+env/
+.env
+*.pyc
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
